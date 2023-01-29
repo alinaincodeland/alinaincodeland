@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi 👋, I'm Alina in Codeland, a creative frontend developer based in Berlin. </h3>
+<h3 align="left">Hi 👋, I'm Alina exploring Codeland, a creative frontend developer based in Berlin. </h3>
 <br>
 
 - 🔭 I’m currently completing **a full-stack web development course at DCI Berlin.**
