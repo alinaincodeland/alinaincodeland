@@ -43,13 +43,4 @@
 <p align="center"> <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> </p>
 <br>
 
-<h3 align="left"> 💫 My days in a nutshell 💫</h3>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinaincodeland&show_icons=true&locale=en&layout=compact" alt="alinaincodeland" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinaincodeland&show_icons=true&locale=en" alt="alinaincodeland" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinaincodeland&" alt="alinaincodeland" /></p>
-
----
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinaincodeland&label=Profile%20views&color=0e75b6&style=flat" alt="alinaincodeland" /> </p>
