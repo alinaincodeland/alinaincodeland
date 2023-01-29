@@ -1,10 +1,6 @@
 
- <p align="center"> <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> </p>
-
-
 <h3 align="left">Hi 👋, I'm Alina in Codeland, a creative frontend developer based in Berlin. </h3>
 <br>
-
 
 - 🔭 I’m currently completing **a full-stack web development course at DCI Berlin.**
 
@@ -12,10 +8,7 @@
 
 - 💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
 
-- 💁‍♀️ Let's connect on   <a href="https://www.linkedin.com/in/alina-cuznetov-733071138/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
+- 💁‍♀️ Let's connect: https://www.linkedin.com/in/alina-cuznetov-733071138/
 
  <p align="center"> <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> </p>
 <br>
@@ -25,7 +18,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -54,9 +46,7 @@
 <h3 align="left"> 💫 My days in a nutshell 💫</h3>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alinaincodeland&show_icons=true&locale=en&layout=compact" alt="alinaincodeland" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alinaincodeland&show_icons=true&locale=en" alt="alinaincodeland" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinaincodeland&" alt="alinaincodeland" /></p>
 
 ---
