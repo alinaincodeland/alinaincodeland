@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently completing **a full-stack web development course at DCI Berlin.**
 
-- 🌱 I’m currently learning **MERN stack and Typescript.**
+- 🌱 I’m learning **MERN stack and Typescript.**
 
 - 💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
 
