@@ -2,7 +2,9 @@
 <h3 align="left">Hi 👋, I'm Alina, a creative frontend developer exploring Codeland! </h3>
 <br>
 
-- 🔭 I’m currently completing **a full-stack web development course at DCI Berlin.**
+- 🚀 I'm currently working as a Frontend Developer intern at Comgy.
+
+- 🔭 I completed **a full-stack web development course at DCI Berlin** in March 2023. 
 
 - 💕 I’m flirting with **Next.js and Typescript.**
 
