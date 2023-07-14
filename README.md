@@ -2,11 +2,11 @@
 <h3 align="left">Hi 👋, I'm Alina, a creative frontend developer exploring Codeland! </h3>
 <br>
 
-- 🚀 I'm currently working as a **Frontend Development intern at Comgy.**
+- 🚀 I'm currently working as a **Frontend Development intern at plista.**
 
 - 🔭 I completed **a full-stack web development course at DCI Berlin** in March 2023. 
 
-- 💕 I’m flirting with **Next.js and Typescript.**
+- 💕 I’m flirting with **Angular and Typescript.**
 
 - 💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
 
