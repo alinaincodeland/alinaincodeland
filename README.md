@@ -10,7 +10,7 @@
 
 - 💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
 
-- 💁‍♀️ Let's connect: https://www.linkedin.com/in/alina-cuznetov-733071138/
+- 💁‍♀️ Let's connect: https://www.linkedin.com/in/a-cuznetov/
 
  <p align="center"> <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> </p>
 <br>
