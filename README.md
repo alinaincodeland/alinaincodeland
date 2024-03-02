@@ -2,7 +2,7 @@
 <h3 align="left">Hi 👋, I'm Alina, a creative frontend developer exploring Codeland! </h3>
 <br>
 
-- 🚀 I'm currently looking **for a new full-time role in Frontend Web Development.**
+- 🚀 Currently a **frontend engineer at sofatutor.**
 
 - 🔭 I completed **a full-stack web development course at DCI Berlin** in March 2023. 
 
