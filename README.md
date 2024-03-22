@@ -2,11 +2,9 @@
 <h3 align="left">Hi 👋, I'm Alina, a creative frontend developer exploring Codeland! </h3>
 <br>
 
-- 🚀 Currently a **frontend engineer at sofatutor.**
+- 🚀 Working as a **frontend engineer at sofatutor.**
 
-- 🔭 I completed **a full-stack web development course at DCI Berlin** in March 2023. 
-
-- 💕 I’m currently experimenting with **Angular and Typescript.**
+- 📖 I’m currently learning with **Ruby and Haml**
 
 - 💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
 
