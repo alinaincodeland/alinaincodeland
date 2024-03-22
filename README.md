@@ -2,13 +2,13 @@
 <h3 align="left">Hi 👋, I'm Alina, a creative frontend developer exploring Codeland! </h3>
 <br>
 
-- 🚀 Working as a **frontend engineer at sofatutor.**
+🚀 I'm a **frontend engineer at @sofatutor.**
 
-- 📖 I’m currently learning with **Ruby and Haml.**
+📖 I’m currently learning with **Ruby and Haml.**
 
-- 💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
+💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
 
-- 💁‍♀️ Let's connect: https://www.linkedin.com/in/a-cuznetov/
+💁‍♀️ Let's connect: https://www.linkedin.com/in/a-cuznetov/
 
  <p align="center"> <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> </p>
 <br>
