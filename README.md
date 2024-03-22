@@ -4,7 +4,7 @@
 
 - 🚀 Working as a **frontend engineer at sofatutor.**
 
-- 📖 I’m currently learning with **Ruby and Haml**
+- 📖 I’m currently learning with **Ruby and Haml.**
 
 - 💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
 
