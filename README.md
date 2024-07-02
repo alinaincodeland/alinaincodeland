@@ -4,7 +4,7 @@
 
 🚀 I'm a **frontend engineer at @sofatutor.**
 
-📖 I’m currently learning **Ruby and Haml.**
+📖 I’m currently working with **Ruby, Haml and BEM.**
 
 💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
 
