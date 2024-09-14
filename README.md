@@ -2,11 +2,11 @@
 <h3 align="left">Hi 👋, I'm Alina, a creative frontend developer exploring Codeland! </h3>
 <br>
 
-🚀 I'm a **creative frontend engineer.**
+🚀 I'm a **creative frontend engineer looking for my next dream team.**
 
-📖 I’m primarily working with **Ruby, JavaScript, React and other modern technologies.**
+📖 I’m primarily working with **Ruby on Rails, JavaScript, React and other modern technologies.**
 
-💫 Besides coding I'm passionate about **analog photography, collage and neubrutalism.**
+💫 Besides coding I'm passionate about **analog photography, DIY and neubrutalism.**
 
 💁‍♀️ Let's connect: https://www.linkedin.com/in/a-cuznetov/
 
@@ -17,7 +17,7 @@
 <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
