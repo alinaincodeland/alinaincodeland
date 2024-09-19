@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi 👋, I'm Alina, a creative frontend developer exploring Codeland! </h3>
+<h3 align="left">Hi, I'm Alina! 👋 </h3>
 <br>
 
 🚀 I'm a **creative frontend engineer looking for my next dream team.**
@@ -17,7 +17,7 @@
 <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ruby on Rails](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,11 +37,4 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
-<br>
-
-<p align="center"> <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> </p>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alinaincodeland&label=Profile%20views&color=0e75b6&style=flat" alt="alinaincodeland" /> </p>
