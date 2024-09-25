@@ -6,9 +6,9 @@
 
 📖 I’m primarily working with **Ruby on Rails, JavaScript, React and other modern technologies.**
 
-💫 Besides coding I'm passionate about **analog photography, DIY and neubrutalism.**
+💫 Besides coding I'm passionate about **analog photography, DIY and travel.**
 
-💁‍♀️ Let's connect: https://www.linkedin.com/in/a-cuznetov/
+💁‍♀️ Let's connect on <a href="https://www.linkedin.com/in/a-cuznetov/">LinkedIn.</a>
 
  <p align="center"> <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" /> </p>
 <br>
