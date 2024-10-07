@@ -4,7 +4,7 @@
 
 🚀 I'm a **creative frontend engineer looking for my next dream team.**
 
-📖 I’m primarily working with **Ruby on Rails, JavaScript, React and other modern technologies.**
+📖 So far, I have worked primarily with these technologies: **Ruby on Rails, JavaScript, React, Angular.**
 
 💫 Besides coding I'm passionate about **analog photography, DIY and travel.**
 
