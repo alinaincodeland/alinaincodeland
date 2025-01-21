@@ -2,7 +2,7 @@
 <h3 align="left">Hi, I'm Alina! 👋 </h3>
 <br>
 
-🚀 I'm a **creative frontend developer looking for my next dream team.**
+🚀 I'm a **creative frontend developer.**
 
 📖 So far, I have worked primarily with these technologies: **Ruby on Rails, JavaScript, React, Angular.**
 
