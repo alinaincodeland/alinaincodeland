@@ -4,7 +4,7 @@
 
 🚀 I'm a **creative frontend developer.**
 
-📖 So far, I have worked primarily with these technologies: **Ruby on Rails, JavaScript, React, Angular.**
+📖 I have worked primarily with these technologies: **React, JavaScript, Ruby on Rails.**
 
 💫 Besides coding I'm passionate about **analog photography, DIY and travel.**
 
